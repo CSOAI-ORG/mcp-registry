@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/31487821?s=200&v=4
 source:
   project: https://github.com/comet-ml/opik-mcp
-  commit: ea3b4862c5d904fd51cacf61a28abf4791864d1e
+  commit: f70e15f0d3b98b28cf269554d87cff62a83fa9b5
 config:
   description: Configure the connection to Opik
   secrets:
